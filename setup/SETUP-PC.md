@@ -145,7 +145,7 @@ Some people have got stuck because they've mistyped the start of the key as OPEN
 
 If you have other keys, you can add them too, or come back to this in future weeks:  
 ```
-GOOGLE_API_KEY=xxxx
+GOOGLE_API_KEY=AIzaSyAR6myOxqZojPnXt4DW0tMl5ufJATQJgtI
 ANTHROPIC_API_KEY=xxxx
 DEEPSEEK_API_KEY=xxxx
 ```
